@@ -1,6 +1,6 @@
 # DisasterReadyPH
 
-A disaster-preparedness web application with a responsive dashboard, weather lookup, interactive Leaflet map, personal location pin, emergency checklist, hazard reporting, and flood-level monitoring.
+A disaster-preparedness  web application with a responsive dashboard, weather lookup, interactive Leaflet map, personal location pin, emergency checklist, hazard reporting, and flood-level monitoring.
 
 ## Production stack
 
